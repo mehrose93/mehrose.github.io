@@ -88,36 +88,21 @@
 			H.S.C
 		</h3>
 		<p>
-			Institution: Viqarunnisa Noon School &amp;College
+			Institution: Viqarunnisa Noon School &amp;College </br>
+			Board: Dhaka </br>
+			Concentration: Science</br>
+			Year: 2010 </br>
+			Result: GPA 4.80 (out of 5) </br>
 		</p>
-		<p>
-			Board: Dhaka
-		</p>
-		<p>
-			Concentration:<strong> </strong>Science<strong> </strong>
-		</p>
-		<p>
-			Year: 2010
-		</p>
-		<p>
-			Result: GPA 4.80 (out of 5)
-		</p>
+		</br>
 		<h3>
 			S.S.C
 		</h3>
 		<p>
-			Institution: Viqarunnisa Noon School &amp;College
-		</p>
-		<p>
-			Board: Dhaka
-		</p>
-		<p>
-			Concentration:<strong> </strong>Science<strong> </strong>
-		</p>
-		<p>
-			Year: 2008
-		</p>
-		<p>
+			Institution: Viqarunnisa Noon School &amp;College </br>
+			Board: Dhaka </br>
+			Concentration: Science </br>
+			Year: 2008 </br>
 			Result: GPA 5 (out of 5)
 		</p>
 		</br>
@@ -233,10 +218,7 @@
 			My thesis titled is <strong>Intelligence Routine Management System</strong>The work is on building a routine management system using genetic algorithm
 			and artificial intelligence. Using user inputs of preferable class time and courses of an individual faculties the system creates a routine implementing
 			genetic algorithm. Implementation is done using Netbeans and MySql Database.<strong> </strong>
-		</p>
-		<p>
-			<strong> </strong>
-		</p>
+		</p>>
 		</br>
 		</br>
 		<h2>
